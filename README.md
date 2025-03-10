@@ -9,4 +9,4 @@ My full name: Ivaan srivastava
 - css
 - js
 
-Contact via [email](mailto:ivaansri.contact@gmail.com?subject=Mdgithub/) only
+Contact via [email](mailto:ivaansri.contact@gmail.com?subject=Mdgithub/) or [Telegram](https://t.me/leaperstuff)
