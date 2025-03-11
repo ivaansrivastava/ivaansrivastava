@@ -9,7 +9,7 @@ My full name: Ivaan srivastava
 - css
 - js
 ### My coding certificates
-![Html1](Html certificate. jpg)
+![Html1](Html certificate .jpg)
 ![CSS1](cssc.jpg)
 
 Contact via [email](mailto:ivaansri.contact@gmail.com?subject=Mdgithub/) only
