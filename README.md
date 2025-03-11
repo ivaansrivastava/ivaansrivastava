@@ -10,7 +10,7 @@ My full name: Ivaan srivastava
 - js
 ### My coding certificates
 - HTML
-![Html1](Html certificate .jpg)
+![Html1](Html%20certificate%20.jpg)
 - CSS
 ![CSS1](cssc.jpg)
 
