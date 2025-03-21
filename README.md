@@ -8,10 +8,8 @@ My full name: Ivaan srivastava
 - Html
 - css
 - js
-### My coding certificates
-- HTML
-![Html1](Html%20certificate%20.jpg)
-- CSS
-![CSS1](cssc.jpg)
+### Check out My coding certificates in this repo
+
+### Devs - [Gists](https://gist.github.com/ivaansrivastava)
 
 Contact via [email](mailto:ivaansri.contact@gmail.com?subject=Mdgithub/) only
